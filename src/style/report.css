@@ -1,0 +1,16 @@
+.container-2 {
+    display: flex;
+    width: 700px;
+    height: 160px;  
+    border-radius: 10px;
+    margin: 0 auto;
+}
+.report {
+    flex-grow: 1;
+    background-color: #eee;
+    margin: 15px;
+    border-radius: 10px;
+    text-align: center;
+    color: #548CA8; 
+    font-size: 20px;
+}
